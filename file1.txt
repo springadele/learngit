@@ -1,2 +1,4 @@
 2014.4.11
-today I learn how to use git.
+today I learn how to use git;
+2014.4.15
+today I continue to learn how to use git;
