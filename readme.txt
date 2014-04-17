@@ -4,3 +4,4 @@ Git has a mutable indext called stage.
 Git track changes of files.
 Creating a new branch is quick AND simple.
 Learn how to use no-ff dev branch.
+bug branch exercise:modify readme.txt and add new file4.txt
