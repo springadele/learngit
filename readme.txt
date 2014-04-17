@@ -4,4 +4,4 @@ Git has a mutable indext called stage.
 Git track changes of files.
 Creating a new branch is quick AND simple.
 Learn how to use no-ff dev branch.
-feature2:add compare no-ff merge on master.
+add feature2 branch:compare no-ff merge on master.
